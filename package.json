@@ -1,0 +1,20 @@
+{
+  "name": "crud-notas",
+  "version": "1.0.0",
+  "description": "crud de notas para programacion multiplataforma",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js"  },
+  "author": "jose alejadro",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "express": "^4.18.1",
+    "morgan": "^1.10.0",
+    "mysql": "^2.18.1"
+  }, 
+  
+  "devDependencies": {
+    "node": "^18.4.0"
+  }
+}
